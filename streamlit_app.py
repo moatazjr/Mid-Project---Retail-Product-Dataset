@@ -1,8 +1,6 @@
 """
 =============================================================================
 Mid-Year Data Science Project — Streamlit Dashboard
-Dataset: E-Commerce Product Data (Synthetic)
-Author : [Your Name]
 =============================================================================
 """
 
